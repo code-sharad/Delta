@@ -1,0 +1,11 @@
+h1::first-letter{
+    color: red;
+}
+
+input:checked + label{
+    color: yellow;
+}
+
+h3:nth-of-type(odd){
+    color: violet;
+}
